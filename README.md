@@ -1,10 +1,10 @@
 # News Web
 
-Application is hosted [here](news-web-pi.vercel.app)
-
 ## Overview
 
 News WEb: A ReactJS-based web application that delivers comprehensive news coverage across various categories. Utilize the NewsAPI to fetch real-time news data, employ React Router for seamless navigation between news categories, and implement infinite scrolling to ensure an uninterrupted and enriching news experience.
+
+Application is hosted [here](news-web-pi.vercel.app)
 
 ## Screenshot
 
