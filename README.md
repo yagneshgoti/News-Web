@@ -1,8 +1,11 @@
-# React + Vite
+# News Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application is hosted [here](news-web-pi.vercel.app)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+News WEb: A ReactJS-based web application that delivers comprehensive news coverage across various categories. Utilize the NewsAPI to fetch real-time news data, employ React Router for seamless navigation between news categories, and implement infinite scrolling to ensure an uninterrupted and enriching news experience.
+
+## Screenshot
+
+![Screenshot_7-8-2024_23459_localhost](https://github.com/user-attachments/assets/f144154a-934d-4b95-b72e-f677752ad444)
